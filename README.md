@@ -1,4 +1,10 @@
 ## Hi there 👋
+I'm Joan, a Senior Project Manager and Management Consultant specializing in digital operations transformation and supply chain optimization.
+🚧 Full content is currently under construction...
+
+我是 Joan，一位專注於以數位做營運轉型與供應鏈營運優化的資深專案管理與管理顧問。
+🚧 完整資訊正在建置中...
+
 
 <!--
 **joan-hsiao/joan-hsiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
